@@ -1,0 +1,122 @@
+{ "cards" : [
+    {
+        "titleOne": "AAP",
+        "titleTwo": "Arbeidsavklaringspenger",
+        "description": "NAV",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "radial-gradient(218.51% 281.09% at 100% 100%, rgba(253, 63, 51, 0.6) 0%, rgba(76, 0, 200, 0.6) 45.83%, rgba(76, 0, 200, 0.6) 100%)",
+        "backgroundIcon": "#1A2151"
+    },
+    {   
+        "titleOne": "Lege Erklæring",
+        "description": "Helse",
+        "circleIcon":"../images/my/article.png",
+        "backgroundColor": "linear-gradient(200.42deg, #FF8570 13.57%, #F9504A 98.35%)",
+        "backgroundIcon": "#FFFFFF"
+    },
+    {
+        "titleOne": "Sykemelding",
+        "titleTwo": "Arbeidsavklaringspenger",
+        "description": "Helse",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "linear-gradient(200.44deg, #4316DB 13.57%, #9076E7 98.38%)",
+        "backgroundIcon": "#1A2151"
+    },
+    {
+        "titleOne": "Arbeidsledig",
+        "titleTwo": "Arbeidsavklaringspenger",
+        "description": "NAV",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "radial-gradient(218.51% 281.09% at 100% 100%, rgba(253, 63, 51, 0.6) 0%, rgba(76, 0, 200, 0.6) 45.83%, rgba(76, 0, 200, 0.6) 100%)",
+        "backgroundIcon": "#1A2151"
+    },
+    {
+        "titleOne": "AAP",
+        "titleTwo": "Arbeidsavklaringspenger",
+        "description": "NAV",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "radial-gradient(218.51% 281.09% at 100% 100%, rgba(253, 63, 51, 0.6) 0%, rgba(76, 0, 200, 0.6) 45.83%, rgba(76, 0, 200, 0.6) 100%)",
+        "backgroundIcon": "#1A2151"
+    },
+    {
+        "titleOne": "AAP",
+        "titleTwo": "Arbeidsavklaringspenger",
+        "description": "NAV",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "radial-gradient(218.51% 281.09% at 100% 100%, rgba(253, 63, 51, 0.6) 0%, rgba(76, 0, 200, 0.6) 45.83%, rgba(76, 0, 200, 0.6) 100%)",
+        "backgroundIcon": "#1A2151"
+    },
+    {
+        "titleOne": "AAP",
+        "titleTwo": "Arbeidsavklaringspenger",
+        "description": "NAV",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "radial-gradient(218.51% 281.09% at 100% 100%, rgba(253, 63, 51, 0.6) 0%, rgba(76, 0, 200, 0.6) 45.83%, rgba(76, 0, 200, 0.6) 100%)",
+        "backgroundIcon": "#1A2151"
+    },
+    {
+        "titleOne": "AAP",
+        "titleTwo": "Arbeidsavklaringspenger",
+        "description": "NAV",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "radial-gradient(218.51% 281.09% at 100% 100%, rgba(253, 63, 51, 0.6) 0%, rgba(76, 0, 200, 0.6) 45.83%, rgba(76, 0, 200, 0.6) 100%)",
+        "backgroundIcon": "#1A2151"
+    },
+    {
+        "titleOne": "Lege Erklæring",
+        "description": "Helse",
+        "circleIcon":"../images/my/article.png",
+        "backgroundColor": "linear-gradient(200.42deg, #FF8570 13.57%, #F9504A 98.35%)",
+        "backgroundIcon": "#FFFFFF"
+    },
+    {
+        "titleOne": "Sykemelding",
+        "titleTwo": "Arbeidsavklaringspenger",
+        "description": "Helse",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "linear-gradient(200.44deg, #4316DB 13.57%, #9076E7 98.38%)",
+        "backgroundIcon": "#1A2151"
+    },
+    {
+        "titleOne": "Arbeidsledig",
+        "titleTwo": "Arbeidsavklaringspenger",
+        "description": "NAV",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "radial-gradient(218.51% 281.09% at 100% 100%, rgba(253, 63, 51, 0.6) 0%, rgba(76, 0, 200, 0.6) 45.83%, rgba(76, 0, 200, 0.6) 100%)",
+        "backgroundIcon": "#1A2151"
+    },
+    {
+        "titleOne": "Arbeidsledig",
+        "titleTwo": "Arbeidsavklaringspenger",
+        "description": "NAV",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "radial-gradient(218.51% 281.09% at 100% 100%, rgba(253, 63, 51, 0.6) 0%, rgba(76, 0, 200, 0.6) 45.83%, rgba(76, 0, 200, 0.6) 100%)",
+        "backgroundIcon": "#1A2151"
+    },
+    {
+        "titleOne": "Video For Hjelp",
+        "titleTwo": "Arbeidsavklaringspenger",
+        "description": "Video",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "radial-gradient(218.51% 281.09% at 100% 100%, rgba(253, 63, 51, 0.6) 0%, rgba(76, 0, 200, 0.6) 45.83%, rgba(76, 0, 200, 0.6) 100%)",
+        "backgroundIcon": "#1A2151"
+    },
+    {
+        "titleOne": "Faktura",
+        "titleTwo": "Betaling",
+        "description": "Bank",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "#9F487F",
+        "backgroundIcon": "#1A2151"
+    },
+    {
+        "titleOne": "Arbediskontrakt",
+        "titleTwo": "Enkel",
+        "description": "Nav",
+        "circleIcon":"../images/my/videocam-gray.svg",
+        "backgroundColor": "radial-gradient(218.51% 281.09% at 100% 100%, rgba(253, 63, 51, 0.6) 0%, rgba(76, 0, 200, 0.6) 45.83%, rgba(76, 0, 200, 0.6) 100%)",
+        "backgroundIcon": "#1A2151"
+    }
+    
+]
+}
