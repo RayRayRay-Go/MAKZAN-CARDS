@@ -1,0 +1,23 @@
+{
+  "name": "makzan-cards",
+  "version": "1.0.0",
+  "description": "cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayRayRay-Go/MAKZAN-CARDS.git"
+  },
+  "author": "Rimma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RayRayRay-Go/MAKZAN-CARDS/issues"
+  },
+  "homepage": "https://github.com/RayRayRay-Go/MAKZAN-CARDS#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
